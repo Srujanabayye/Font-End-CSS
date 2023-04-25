@@ -1,0 +1,12 @@
+p
+{
+	border-width: 2px 4px;
+	border-color: green;
+	border-style: dotted;
+	border-radius: 10%;
+}
+p
+{
+	border: 2px dashed hotpink;
+	border-radius: 6%;
+}

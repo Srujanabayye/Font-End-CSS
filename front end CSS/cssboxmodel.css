@@ -1,0 +1,24 @@
+p
+{
+	border-style: dashed;
+	border-color: red;
+	border-width: 2px 4px;
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 15px;
+	margin-right: 10px;
+
+}
+p{
+	border: 5px dotted  green;
+
+	margin: 20px;
+	
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	width: 50%;
+	height: 10%;
+}

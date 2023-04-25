@@ -1,0 +1,22 @@
+h1
+{
+	color: blue;
+}
+h6{
+	color: maroon;
+}
+#unique
+{
+	color: hotpink;
+}
+.fav	
+{
+	color: red; 
+}
+*
+{
+	color: green;
+}
+h2,p{
+	color: orange;
+}

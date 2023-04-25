@@ -1,0 +1,6 @@
+#out .in{
+	color: red;
+}
+p:hover{
+color: green;
+}
